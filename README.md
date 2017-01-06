@@ -1,4 +1,4 @@
-#Under-graduate final year project. 
+#Final Year Project 
 ## Music Host Interface
 The goal for this project was to combine the features of a Jukebox and
 the role that a DJ plays. This combination is what I have titled as the
@@ -7,8 +7,8 @@ of a desktop application and the Music Guest which consists of an
 Android application.
 
 The scope of this project was primarily based on interfacing these two
-elements together into one cohesive solution using the follo wing
-technologies, Bluetooth, Cloud database, and JavaFX.
+elements together into one cohesive solution using the following
+technologies, Bluetooth, Azure SQL database, and JavaFX.
 
 The approach for this project consisted of dividing up the work to be
 completed into 9 sprints that each required incremental degrees of
